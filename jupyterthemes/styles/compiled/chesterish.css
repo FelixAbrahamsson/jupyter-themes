@@ -1480,16 +1480,16 @@ div.cell {
  top: 0;
 }
 div.cell.selected {
- background: #293340;
- background-color: #293340;
+ background: #8a6d3b;
+ background-color: #8a6d3b;
  border: medium solid #1a2028;
  padding: 0px;
  border-radius: 5px;
 }
 .edit_mode div.cell.selected {
  padding: 0px;
- background: #293340;
- background-color: #293340;
+ background: #8a6d3b;
+ background-color: #8a6d3b;
  border: medium solid #1a2028;
  border-radius: 5px;
 }
@@ -3113,7 +3113,7 @@ div.CodeMirror-linenumber,
 div.CodeMirror span.CodeMirror-matchingbracket {
  color: #ffffff;
  font-weight: bold;
- background-color: #4c8be2;
+ background-color: darkmagenta;
 }
 div.CodeMirror span.CodeMirror-nonmatchingbracket {
  color: #ffffff;
